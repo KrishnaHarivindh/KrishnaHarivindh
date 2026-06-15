@@ -2,6 +2,10 @@
 
 **CSE Cloud Computing Student | AI & Full-Stack Developer | Machine Learning | Cloud | Cybersecurity**
 
+![Profile Views](https://komarev.com/ghpvc/?username=KrishnaHarivindh&style=flat-square)
+![GitHub followers](https://img.shields.io/github/followers/KrishnaHarivindh?style=flat-square)
+![GitHub User's stars](https://img.shields.io/github/stars/KrishnaHarivindh?style=flat-square)
+
 I am a B.Tech Computer Science and Engineering student specializing in Cloud Computing at SRM Institute of Science and Technology. I build AI-powered applications, enterprise software prototypes, machine learning systems, and full-stack platforms with a focus on practical engineering and professional documentation.
 
 Current CGPA: **8.82**
@@ -68,6 +72,12 @@ Studied generative AI concepts, foundation models, prompt engineering, responsib
 **Databases:** PostgreSQL, SQLite, SQLAlchemy  
 **Security:** JWT authentication, RBAC, cybersecurity analytics fundamentals  
 **Tools:** VS Code, GitHub Copilot, Postman, Alembic
+
+## GitHub Metrics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KrishnaHarivindh&show_icons=true&theme=default&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnaHarivindh&layout=compact&hide_border=true)
 
 ## GitHub Direction
 
