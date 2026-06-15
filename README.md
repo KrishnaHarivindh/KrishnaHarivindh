@@ -17,31 +17,31 @@ Current CGPA: **8.82**
 
 ## Featured Projects
 
-### Enterprise AI Copilot Platform
+### [Enterprise AI Copilot Platform](https://github.com/KrishnaHarivindh/Enterprise-AI-Copilot-Platform)
 
 Production-style AI copilot foundation for document intelligence, RAG chat, authentication, multi-agent workflows, and admin analytics.
 
 **Tech:** FastAPI, React, TypeScript, PostgreSQL, pgvector-ready architecture, JWT, RBAC
 
-### AI-Powered SOC Platform
+### [AI-Powered SOC Platform](https://github.com/KrishnaHarivindh/AI-Powered-SOC-Platform)
 
 Mini enterprise SIEM/SOC platform for security event ingestion, alert monitoring, dashboarding, and cybersecurity analytics.
 
 **Tech:** FastAPI, React, TypeScript, PostgreSQL, SQLAlchemy, Alembic, Docker
 
-### HealthSense AI
+### [HealthSense AI](https://github.com/KrishnaHarivindh/HealthSense-AI)
 
 Healthcare AI prototype for chest X-ray pneumonia risk prediction using CNN models, structured clinical metadata, ensemble scoring, Grad-CAM explainability, and Streamlit dashboards.
 
 **Tech:** Python, TensorFlow, Scikit-Learn, XGBoost, Streamlit, SQLite
 
-### GEASSFLOW
+### [GEASSFLOW](https://github.com/KrishnaHarivindh/Project-Lelouch)
 
 AI workflow automation platform that converts natural language instructions into executable multi-step workflows with dynamic tool selection and execution tracing.
 
 **Tech:** TypeScript, React, Node.js, Vite, Docker
 
-### MCP Appium Server
+### [MCP Appium Server](https://github.com/KrishnaHarivindh/mcp-appium)
 
 Model Context Protocol server for Appium-based mobile testing and AI-assisted QA automation workflows.
 
@@ -79,4 +79,3 @@ I use GitHub to document and improve practical software projects across AI, clou
 - Email: harivindhkrishna0802@gmail.com
 - LinkedIn: Add your LinkedIn profile
 - Portfolio: Add your portfolio website
-
