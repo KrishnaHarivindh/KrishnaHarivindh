@@ -11,7 +11,7 @@ I am a B.Tech Computer Science and Engineering student at **SRM Institute of Sci
 
 My current focus is turning academic, internship, and self-built projects into clean, reviewable engineering work with practical documentation, structured APIs, safe configuration templates, and recruiter-friendly READMEs.
 
-**Current CGPA:** 8.82
+**Current CGPA:** 8.83
 
 ## What I Build
 
