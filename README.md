@@ -1,55 +1,40 @@
 # B. Krishna Harivindh Reddy
 
-**CSE Cloud Computing Student | AI & Full-Stack Developer | Machine Learning | Cloud | Cybersecurity**
+**Computer Science student specializing in Cloud Computing | AI/ML, Agentic AI, Cloud, Full-Stack, and Cybersecurity Engineering**
 
-![Profile Views](https://komarev.com/ghpvc/?username=KrishnaHarivindh&style=flat-square)
-![GitHub followers](https://img.shields.io/github/followers/KrishnaHarivindh?style=flat-square)
-![GitHub User's stars](https://img.shields.io/github/stars/KrishnaHarivindh?style=flat-square)
+[![Profile Views](https://komarev.com/ghpvc/?username=KrishnaHarivindh&style=flat-square)](https://github.com/KrishnaHarivindh)
+[![Followers](https://img.shields.io/github/followers/KrishnaHarivindh?style=flat-square)](https://github.com/KrishnaHarivindh?tab=followers)
+[![Stars](https://img.shields.io/github/stars/KrishnaHarivindh?style=flat-square)](https://github.com/KrishnaHarivindh?tab=repositories)
+[![Portfolio](https://img.shields.io/badge/Portfolio-GitHub%20Pages-0f62fe?style=flat-square)](https://KrishnaHarivindh.github.io/portfolio-website/)
 
-I am a B.Tech Computer Science and Engineering student specializing in Cloud Computing at SRM Institute of Science and Technology. I build AI-powered applications, enterprise software prototypes, machine learning systems, and full-stack platforms with a focus on practical engineering and professional documentation.
+I am a B.Tech Computer Science and Engineering student at **SRM Institute of Science and Technology**, specializing in **Cloud Computing**. I build applied software across AI/ML systems, LLM applications, full-stack platforms, cloud architecture, cybersecurity analytics, and automation.
 
-Current CGPA: **8.82**
+My current focus is turning academic, internship, and self-built projects into clean, reviewable engineering work with practical documentation, structured APIs, safe configuration templates, and recruiter-friendly READMEs.
 
-## Focus Areas
+**Current CGPA:** 8.82
 
-- Artificial Intelligence and Machine Learning
-- Full-stack web development with React, TypeScript, Node.js, and FastAPI
-- Cloud computing and enterprise application architecture
-- RAG systems, AI agents, and workflow automation
-- Cybersecurity analytics and SOC platform design
-- Data engineering, analytics, and predictive modeling
+## What I Build
+
+- AI applications with RAG foundations, agent workflows, model inference, and explainability
+- Full-stack products using React, TypeScript, FastAPI, Node.js, and REST APIs
+- Cloud-ready backend systems with authentication, RBAC, Docker, and database migrations
+- Cybersecurity dashboards for event ingestion, alert triage, and SOC-style workflows
+- Machine learning projects with feature engineering, model benchmarking, and report generation
+- AI-assisted QA automation using MCP, multimodal requirements analysis, and test-script generation
 
 ## Featured Projects
 
-### [Enterprise AI Copilot Platform](https://github.com/KrishnaHarivindh/Enterprise-AI-Copilot-Platform)
-
-Production-style AI copilot foundation for document intelligence, RAG chat, authentication, multi-agent workflows, and admin analytics.
-
-**Tech:** FastAPI, React, TypeScript, PostgreSQL, pgvector-ready architecture, JWT, RBAC
-
-### [AI-Powered SOC Platform](https://github.com/KrishnaHarivindh/AI-Powered-SOC-Platform)
-
-Mini enterprise SIEM/SOC platform for security event ingestion, alert monitoring, dashboarding, and cybersecurity analytics.
-
-**Tech:** FastAPI, React, TypeScript, PostgreSQL, SQLAlchemy, Alembic, Docker
-
-### [HealthSense AI](https://github.com/KrishnaHarivindh/HealthSense-AI)
-
-Healthcare AI prototype for chest X-ray pneumonia risk prediction using CNN models, structured clinical metadata, ensemble scoring, Grad-CAM explainability, and Streamlit dashboards.
-
-**Tech:** Python, TensorFlow, Scikit-Learn, XGBoost, Streamlit, SQLite
-
-### [GEASSFLOW](https://github.com/KrishnaHarivindh/Project-Lelouch)
-
-AI workflow automation platform that converts natural language instructions into executable multi-step workflows with dynamic tool selection and execution tracing.
-
-**Tech:** TypeScript, React, Node.js, Vite, Docker
-
-### [MCP Appium Server](https://github.com/KrishnaHarivindh/mcp-appium)
-
-Model Context Protocol server for Appium-based mobile testing and AI-assisted QA automation workflows.
-
-**Tech:** Node.js, Appium, MCP, mobile automation
+| Project | What it demonstrates | Stack |
+| --- | --- | --- |
+| [Enterprise AI Copilot Platform](https://github.com/KrishnaHarivindh/Enterprise-AI-Copilot-Platform) | RAG-ready enterprise platform with document intelligence, auth, role-based access, agent workflows, and admin analytics | FastAPI, React, TypeScript, PostgreSQL, SQLAlchemy, Alembic, JWT |
+| PM Cockpit (Enterprise System) | Project lifecycle workflows, document control, audit logging, risk tracking, AI-assisted governance, and multi-role RBAC | React, TypeScript, Node.js, Express.js, PostgreSQL, JWT |
+| AI-Driven QA & Test Automation using MCP | Multi-LLM QA orchestration for test generation, gap analysis, app exploration, and automation script generation | MCP, Claude, GPT, Gemini, Playwright, Selenium, Cypress |
+| [AI-Powered SOC Platform](https://github.com/KrishnaHarivindh/AI-Powered-SOC-Platform) | Mini enterprise SIEM/SOC foundation for security event ingestion, alert monitoring, and analyst dashboards | FastAPI, React, TypeScript, PostgreSQL, Docker |
+| [HealthSense AI](https://github.com/KrishnaHarivindh/HealthSense-AI) | Healthcare AI prototype for chest X-ray pneumonia risk prediction, clinical metadata fusion, Grad-CAM, and reports | Python, TensorFlow, Scikit-Learn, XGBoost, Streamlit, SQLite |
+| Transmission ML Analysis System | Industrial predictive analytics for automobile transmission temperature and friction-power estimation | Python, Pandas, NumPy, Scikit-Learn, XGBoost, LightGBM |
+| [GEASSFLOW](https://github.com/KrishnaHarivindh/Project-Lelouch) | Natural-language workflow automation with dynamic tool selection and execution tracing | TypeScript, React, Node.js, Vite, Docker |
+| [MCP Appium Server](https://github.com/KrishnaHarivindh/mcp-appium) | Public MCP server for Appium-based mobile testing and AI-assisted QA workflows | Node.js, Appium, MCP |
+| [Portfolio Website](https://github.com/KrishnaHarivindh/portfolio-website) | Personal web profile for projects, skills, and contact information | HTML, CSS, GitHub Pages |
 
 ## Experience
 
@@ -57,35 +42,46 @@ Model Context Protocol server for Appium-based mobile testing and AI-assisted QA
 Worked on temperature and friction power prediction for automobile transmission systems using machine learning, feature engineering, model benchmarking, and industrial data analysis.
 
 **AWS Cloud Virtual Internship - AICTE / EduSkills**  
-Gained practical exposure to cloud architecture, AWS services, IAM, networking, cloud security, compute, storage, and deployment models.
+Built practical understanding of AWS cloud fundamentals, IAM, networking, compute, storage, security, and deployment models.
 
 **AWS Cloud Generative AI Virtual Internship - AICTE / EduSkills**  
-Studied generative AI concepts, foundation models, prompt engineering, responsible AI, and enterprise AI solution design.
+Studied foundation models, prompt engineering, responsible AI, and enterprise generative AI solution design.
+
+## Certifications
+
+- **Cloud / AI:** Oracle Cloud Infrastructure 2025 Generative AI Professional, Oracle Cloud Infrastructure Foundations Associate, AWS Academy Cloud Foundations, AWS Academy Cloud Architecting, AWS Academy Generative AI Foundations, AWS Academy Machine Learning Foundations, AWS Academy Machine Learning for NLP
+- **Data / Databases:** Microsoft Certified: Azure Data Fundamentals (DP-900), NPTEL Database Management Systems
+- **Programming / CS:** NPTEL Programming in Java
+- **Networking / Security:** Fortinet Certified Associate Cybersecurity, Cisco Networking Devices and Initial Configuration, Zscaler Zero Trust Cyber Associate
 
 ## Technical Skills
 
-**Languages:** Python, TypeScript, JavaScript, SQL  
-**Frontend:** React, Vite, HTML, CSS, Tailwind CSS  
-**Backend:** Node.js, Express.js, FastAPI, REST APIs  
-**AI / ML:** TensorFlow, Keras, Scikit-Learn, XGBoost, Pandas, NumPy  
-**Cloud / DevOps:** AWS fundamentals, Docker, Git, GitHub  
-**Databases:** PostgreSQL, SQLite, SQLAlchemy  
-**Security:** JWT authentication, RBAC, cybersecurity analytics fundamentals  
-**Tools:** VS Code, GitHub Copilot, Postman, Alembic
+- **Languages:** Python, Java, TypeScript, JavaScript, SQL, C++
+- **Frontend:** React, Vite, HTML, CSS, Tailwind CSS
+- **Backend:** FastAPI, Node.js, Express.js, REST APIs
+- **AI / ML:** TensorFlow, Keras, Scikit-Learn, XGBoost, LightGBM, Pandas, NumPy
+- **LLM / Agentic AI:** RAG, prompt engineering, semantic search, pgvector, MCP, multi-agent workflows
+- **Cloud / DevOps:** AWS, Azure, Oracle Cloud Infrastructure, Docker, Git, GitHub, GitHub Pages
+- **Databases:** PostgreSQL, MySQL, SQLite, SQLAlchemy, Alembic
+- **Security / QA:** JWT authentication, RBAC, cybersecurity analytics, Selenium, Playwright, Cypress
+- **Tools:** VS Code, GitHub Copilot, Postman, Jira
 
 ## GitHub Metrics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KrishnaHarivindh&show_icons=true&theme=default&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KrishnaHarivindh&show_icons=true&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnaHarivindh&layout=compact&hide_border=true)
 
-## GitHub Direction
+## Current Direction
 
-I use GitHub to document and improve practical software projects across AI, cloud, cybersecurity, full-stack development, and automation. My current focus is building cleaner repositories with readable architecture, strong README files, safe configuration templates, and recruiter-friendly project presentation.
+I am improving my GitHub profile around three goals:
+
+1. Build complete, deployable project foundations in AI, cloud, cybersecurity, QA automation, and full-stack engineering.
+2. Keep repositories clean with readable architecture, reproducible setup steps, and useful documentation.
+3. Present work in a way that is easy for recruiters, mentors, and engineering reviewers to scan.
 
 ## Connect
 
 - GitHub: [github.com/KrishnaHarivindh](https://github.com/KrishnaHarivindh)
-- Email: harivindhkrishna0802@gmail.com
-- LinkedIn: Add your LinkedIn profile
-- Portfolio: Add your portfolio website
+- Portfolio: [KrishnaHarivindh.github.io/portfolio-website](https://KrishnaHarivindh.github.io/portfolio-website/)
+- Email: [harivindhkrishna0802@gmail.com](mailto:harivindhkrishna0802@gmail.com)
