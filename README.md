@@ -27,10 +27,15 @@ My current focus is turning academic, internship, and self-built projects into c
 | Project | What it demonstrates | Stack |
 | --- | --- | --- |
 | [Enterprise AI Copilot Platform](https://github.com/KrishnaHarivindh/Enterprise-AI-Copilot-Platform) | RAG-ready enterprise platform with document intelligence, auth, role-based access, agent workflows, and admin analytics | FastAPI, React, TypeScript, PostgreSQL, SQLAlchemy, Alembic, JWT |
+| [PMO Interactive Dashboard](https://github.com/KrishnaHarivindh/pmo-interactive-dashboard) | Executive PMO dashboard for KPIs, project risk tracking, blockers, dependencies, costing, and activity monitoring | React, TypeScript, Vite, Recharts, Tailwind CSS |
+| [FinVantage Enterprise Finance Planner](https://github.com/KrishnaHarivindh/finvantage-enterprise-finance-planner) | Enterprise-style finance dashboard for budgets, expenses, goals, reports, and financial analytics | React, TypeScript, React Router, Recharts |
+| [Jira-Style Kanban Board](https://github.com/KrishnaHarivindh/jira-style-kanban-board) | Project-management prototype with Kanban, backlog, reports, releases, issue creation, and task detail workflows | React, TypeScript, Vite, local storage |
 | PM Cockpit (Enterprise System) | Project lifecycle workflows, document control, audit logging, risk tracking, AI-assisted governance, and multi-role RBAC | React, TypeScript, Node.js, Express.js, PostgreSQL, JWT |
 | AI-Driven QA & Test Automation using MCP | Multi-LLM QA orchestration for test generation, gap analysis, app exploration, and automation script generation | MCP, Claude, GPT, Gemini, Playwright, Selenium, Cypress |
 | [AI-Powered SOC Platform](https://github.com/KrishnaHarivindh/AI-Powered-SOC-Platform) | Mini enterprise SIEM/SOC foundation for security event ingestion, alert monitoring, and analyst dashboards | FastAPI, React, TypeScript, PostgreSQL, Docker |
 | [HealthSense AI](https://github.com/KrishnaHarivindh/HealthSense-AI) | Healthcare AI prototype for chest X-ray pneumonia risk prediction, clinical metadata fusion, Grad-CAM, and reports | Python, TensorFlow, Scikit-Learn, XGBoost, Streamlit, SQLite |
+| [EduMaster Student Information System](https://github.com/KrishnaHarivindh/edumaster-student-information-system) | Student information system prototype with dashboard analytics, records, profiles, and AI insight foundation | React, TypeScript, Vite, Recharts, Gemini API |
+| [Nexus Project and Life Manager](https://github.com/KrishnaHarivindh/nexus-project-life-manager) | Local-first productivity workspace with dashboard, board, list, task editing, activity logs, and persistence | React, TypeScript, Vite, local storage |
 | Transmission ML Analysis System | Industrial predictive analytics for automobile transmission temperature and friction-power estimation | Python, Pandas, NumPy, Scikit-Learn, XGBoost, LightGBM |
 | [GEASSFLOW](https://github.com/KrishnaHarivindh/Project-Lelouch) | Natural-language workflow automation with dynamic tool selection and execution tracing | TypeScript, React, Node.js, Vite, Docker |
 | [MCP Appium Server](https://github.com/KrishnaHarivindh/mcp-appium) | Public MCP server for Appium-based mobile testing and AI-assisted QA workflows | Node.js, Appium, MCP |
@@ -76,7 +81,7 @@ Studied foundation models, prompt engineering, responsible AI, and enterprise ge
 
 I am improving my GitHub profile around three goals:
 
-1. Build complete, deployable project foundations in AI, cloud, cybersecurity, QA automation, and full-stack engineering.
+1. Build complete, deployable project foundations in AI, cloud, cybersecurity, QA automation, project management, and full-stack engineering.
 2. Keep repositories clean with readable architecture, reproducible setup steps, and useful documentation.
 3. Present work in a way that is easy for recruiters, mentors, and engineering reviewers to scan.
 
