@@ -49,10 +49,10 @@ Studied foundation models, prompt engineering, responsible AI, and enterprise ge
 
 ## Certifications
 
-- **Cloud / AI:** Oracle Cloud Infrastructure 2025 Generative AI Professional, Oracle Cloud Infrastructure Foundations Associate, AWS Academy Cloud Foundations, AWS Academy Cloud Architecting, AWS Academy Generative AI Foundations, AWS Academy Machine Learning Foundations, AWS Academy Machine Learning for NLP
-- **Data / Databases:** Microsoft Certified: Azure Data Fundamentals (DP-900), NPTEL Database Management Systems
+- **Cloud / AI:** Oracle Cloud Infrastructure 2025 Generative AI Professional, Oracle Cloud Infrastructure Foundations Associate, AWS Academy Cloud Foundations, AWS Academy Cloud Architecting, AWS Academy Generative AI Foundations, AWS Academy Machine Learning Foundations, AWS Academy Machine Learning for NLP, IBM Cloud Computing Fundamentals
+- **Data / Databases:** Microsoft Certified: Azure Data Fundamentals (DP-900), Data Engineering on AWS Foundations, NPTEL Database Management Systems
 - **Programming / CS:** NPTEL Programming in Java
-- **Networking / Security:** Fortinet Certified Associate Cybersecurity, Cisco Networking Devices and Initial Configuration, Zscaler Zero Trust Cyber Associate
+- **Networking / Security:** Fortinet Certified Associate Cybersecurity, Cisco Networking Devices and Initial Configuration, Cisco Introduction to IoT, Zscaler Zero Trust Cyber Associate, Zscaler Fundamentals of Cybersecurity
 
 ## Technical Skills
 
