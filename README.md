@@ -38,6 +38,9 @@ My current focus is turning academic, internship, and self-built projects into c
 | [Nexus Project and Life Manager](https://github.com/KrishnaHarivindh/nexus-project-life-manager) | Local-first productivity workspace with dashboard, board, list, task editing, activity logs, and persistence | React, TypeScript, Vite, local storage |
 | [Transmission ML Analysis System](https://github.com/KrishnaHarivindh/transmission-ml-analysis-system) | Interactive local CLI and dashboard for automobile transmission prediction, benchmarking, sensitivity analysis, and report exports | Python, Pandas, NumPy, Scikit-Learn, XGBoost, LightGBM |
 | [GEASSFLOW](https://github.com/KrishnaHarivindh/Project-Lelouch) | Natural-language workflow automation with dynamic tool selection and execution tracing | TypeScript, React, Node.js, Vite, Docker |
+| [STP Guardian](https://github.com/KrishnaHarivindh/stp-guardian) | Browser-based teaching simulator for spanning-tree roles, broadcast paths, and link failure | JavaScript, HTML, CSS |
+| [NanoSim360](https://github.com/KrishnaHarivindh/nanosim360) | Educational nanomaterials explorer with scientific calculations and explicitly bounded synthetic ML estimates | FastAPI, Python, React, TypeScript |
+| [FANET Peer Selection Cooja Demo](https://github.com/KrishnaHarivindh/fanet-peer-selection-cooja) | Contiki-NG simulation of an illustrative multi-hop disaster-response peer-selection flow | C, Contiki-NG, Cooja |
 | [Portfolio Website](https://github.com/KrishnaHarivindh/portfolio-website) | Personal web profile for projects, skills, and contact information | HTML, CSS, GitHub Pages |
 
 ## Experience
