@@ -38,7 +38,6 @@ My current focus is turning academic, internship, and self-built projects into c
 | [Nexus Project and Life Manager](https://github.com/KrishnaHarivindh/nexus-project-life-manager) | Local-first productivity workspace with dashboard, board, list, task editing, activity logs, and persistence | React, TypeScript, Vite, local storage |
 | [Transmission ML Analysis System](https://github.com/KrishnaHarivindh/transmission-ml-analysis-system) | Interactive local CLI and dashboard for automobile transmission prediction, benchmarking, sensitivity analysis, and report exports | Python, Pandas, NumPy, Scikit-Learn, XGBoost, LightGBM |
 | [GEASSFLOW](https://github.com/KrishnaHarivindh/Project-Lelouch) | Natural-language workflow automation with dynamic tool selection and execution tracing | TypeScript, React, Node.js, Vite, Docker |
-| [MCP Appium Server](https://github.com/KrishnaHarivindh/mcp-appium) | Public MCP server for Appium-based mobile testing and AI-assisted QA workflows | Node.js, Appium, MCP |
 | [Portfolio Website](https://github.com/KrishnaHarivindh/portfolio-website) | Personal web profile for projects, skills, and contact information | HTML, CSS, GitHub Pages |
 
 ## Experience
